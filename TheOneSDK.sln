@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOneSDK.Core", "TheOneSDK.Core\TheOneSDK.Core.csproj", "{01FE3A59-FA5D-4382-913C-81B95B8E3EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOneSDK.Tests", "TheOneSDK.Tests\TheOneSDK.Tests.csproj", "{BC1AF2A1-795A-47E1-BE75-29C66765EE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheOneSDK.Playground", "TheOneSDK.Playground\TheOneSDK.Playground.csproj", "{35C54119-63D2-4B25-AE8A-F78DDDE044AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FE3A59-FA5D-4382-913C-81B95B8E3EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FE3A59-FA5D-4382-913C-81B95B8E3EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FE3A59-FA5D-4382-913C-81B95B8E3EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FE3A59-FA5D-4382-913C-81B95B8E3EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1AF2A1-795A-47E1-BE75-29C66765EE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1AF2A1-795A-47E1-BE75-29C66765EE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1AF2A1-795A-47E1-BE75-29C66765EE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1AF2A1-795A-47E1-BE75-29C66765EE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C54119-63D2-4B25-AE8A-F78DDDE044AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C54119-63D2-4B25-AE8A-F78DDDE044AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C54119-63D2-4B25-AE8A-F78DDDE044AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C54119-63D2-4B25-AE8A-F78DDDE044AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
